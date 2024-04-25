@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker
+# Ordinatrum
 
 ## Overview
 The Cryptocurrency Tracker is a web application designed to provide users with real-time updates on cryptocurrency news and asset prices. Leveraging React.js, CSS, and Redux Toolkit for state management, this project offers a dynamic and intuitive user experience without the need for a backend infrastructure. The application fetches data from RAPIDAPI, ensuring reliable and up-to-date information for users interested in monitoring the crypto market.
@@ -30,4 +30,4 @@ Contributions to the Cryptocurrency Tracker project are welcome! Feel free to fo
 This Cryptocurrency Tracker project is licensed under the [MIT License](https://opensource.org/licenses/MIT), granting users the freedom to use, modify, and distribute the software for any purpose, subject to the conditions specified in the license agreement.
 
 ## Feedback
-I value your feedback! If you encounter any issues, have suggestions for improvements, or would like to share your experience using the Cryptocurrency Tracker, please don't hesitate to reach out to us through the provided contact information or by submitting an issue on the project's GitHub repository. Your input helps us enhance the application and provide a better user experience for everyone.
+I value your feedback! If you encounter any issues, have suggestions for improvements, or would like to share your experience using the Cryptocurrency Tracker, please don't hesitate to reach out to me through the provided contact information or by submitting an issue on the project's GitHub repository. Your input helps us enhance the application and provide a better user experience for everyone.
